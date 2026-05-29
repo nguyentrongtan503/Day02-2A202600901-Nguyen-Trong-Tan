@@ -2,7 +2,7 @@
 
 ## Thông tin cá nhân
 
-* Họ và tên: Nguyễn Trọng Tân
+* Họ và tên: Nguyễn Trọng Tấn
 * MSSV: 2A202600901
 
 ---
